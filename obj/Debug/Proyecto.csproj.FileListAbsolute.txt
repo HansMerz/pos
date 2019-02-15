@@ -1,0 +1,152 @@
+C:\Users\unicuces\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\unicuces\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\unicuces\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\unicuces\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\unicuces\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\unicuces\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\unicuces\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\unicuces\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\unicuces\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\unicuces\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\ACER\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\ACER\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\ACER\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\ACER\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\ACER\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\Users\ACER\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Menu.resources
+C:\Users\ACER\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\ACER\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\ACER\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\ACER\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\ACER\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Productos.resources
+C:\Users\ACER\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.RegistrarUsuario.resources
+C:\Users\ACER\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Vender.resources
+C:\Users\ACER\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Sucursal.resources
+C:\Users\ACER\source\repos\Proyecto\Proyecto\bin\Debug\MySql.Data.dll
+C:\Users\ACER\source\repos\Proyecto\Proyecto\bin\Debug\MySql.Data.xml
+C:\Users\ACER\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Informes.resources
+C:\Users\ACER\source\repos\Proyecto\Proyecto\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ACER\source\repos\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ACER\source\repos\Proyecto\Proyecto\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ACER\source\repos\Proyecto\Proyecto\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ACER\source\repos\Proyecto\Proyecto\bin\Debug\FlashControlV71.dll
+C:\Users\ACER\source\repos\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ACER\source\repos\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ACER\source\repos\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ACER\source\repos\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ACER\source\repos\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ACER\source\repos\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ACER\source\repos\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ACER\source\repos\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ACER\source\repos\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ACER\source\repos\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ACER\source\repos\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ACER\source\repos\Proyecto\Proyecto\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ACER\source\repos\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ACER\source\repos\Proyecto\Proyecto\bin\Debug\stdole.dll
+C:\Users\ACER\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.ActualiProd.resources
+C:\Users\ACER\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.EliminarProd.resources
+C:\Users\ACER\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Inventario.resources
+C:\Users\ACER\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.NuevoProd.resources
+C:\Users\ACER\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Facturar.resources
+C:\Users\ACER\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Devoluciones.resources
+C:\Users\ACER\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.InformeIva.resources
+C:\Users\ACER\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.InformeVentas.resources
+C:\Users\ACER\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.InformeVentasSede.resources
+C:\Users\ACER\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.InformeVentasVendedor.resources
+C:\Users\ACER\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Stock.resources
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.ActualiProd.resources
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.Devoluciones.resources
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.EliminarProd.resources
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.Facturar.resources
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.InformeIva.resources
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.Informes.resources
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.InformeVentas.resources
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.InformeVentasSede.resources
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.InformeVentasVendedor.resources
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.Inventario.resources
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.Login.resources
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.Menu.resources
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.NuevoProd.resources
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.Productos.resources
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.RegistrarUsuario.resources
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.Stock.resources
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.Sucursal.resources
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.Vender.resources
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\CrystalDecisions.Shared.dll
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\FlashControlV71.dll
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\ShockwaveFlashObjects.dll
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\stdole.dll
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+D:\DOCUMENTOS\Nueva carpeta (4)\Downloads\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\stdole.dll
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.ActualiProd.resources
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.Devoluciones.resources
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.EliminarProd.resources
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.Facturar.resources
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.InformeIva.resources
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.Informes.resources
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.InformeVentas.resources
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.InformeVentasSede.resources
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.InformeVentasVendedor.resources
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.Inventario.resources
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.Menu.resources
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.NuevoProd.resources
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.Productos.resources
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.RegistrarUsuario.resources
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.Stock.resources
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.Sucursal.resources
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.Vender.resources
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Hans Merz\Desktop\ProyectoFinalVentas\Proyecto\Proyecto\bin\Debug\FlashControlV71.dll
