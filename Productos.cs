@@ -7,6 +7,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Net;
+using Newtonsoft.Json;
+using System.IO;
 
 namespace Proyecto
 {
@@ -68,12 +71,20 @@ namespace Proyecto
         }
         public void cargarTabla(String value)
         {
-            String sql = "SELECT i.NumRef NumRef, i.Nombre Nombre, i.Marca Marca FROM " +
+            String url = "https://web-service-to-csharp-hansmerz.c9users.io/products.php?url=loadtableproduct&val="+value+"";
+            var json = new WebClient().DownloadString(url);
+            DataTable m = JsonConvert.DeserializeObject<DataTable>(json);
+            dataGridView1.DataSource = m;
+            /*foreach (var j in m)
+            {
+                MessageBox.Show("Nombres: "+j.NumRef + " Apellidos: "+ j.Nombre + " Documento: "+ j.Marca);                                
+            }*/
+            /*String sql = "SELECT i.NumRef NumRef, i.Nombre Nombre, i.Marca Marca FROM " +
                 "item i INNER JOIN stock s ON i.idItem = s.Item_id WHERE s.Concepto = 'Entrada' AND i.Estado = 1 " +
                 "AND CONCAT(NumRef, ' ', Nombre, ' ', Marca) LIKE '%"+value+"%' " +
                 "GROUP BY i.idItem";
             DataTable table = Conexion.Data(sql);
-            dataGridView1.DataSource = table;
+            dataGridView1.DataSource = table;*/
         }
       
         public void cargarDatos()
@@ -88,13 +99,17 @@ namespace Proyecto
             {
                 defi = code;
             }
-            String sql = String.Format("SELECT i.Nombre, i.Marca, i.Descripcion, i.Precio " +
+            /*String sql = String.Format("SELECT i.Nombre, i.Marca, i.Descripcion, i.Precio " +
                           "FROM item i " +
                           "INNER JOIN stock s " +
                           "ON i.idItem = s.Item_id " +
                           "WHERE s.Concepto = 'Entrada' AND i.NumRef = '{0}' " +
-                          "AND s.Estado = 1 AND i.Estado = 1", defi);
-                DataRow info = Conexion.Data(sql).Rows[0];                
+                          "AND s.Estado = 1 AND i.Estado = 1", defi);*/
+            String url = "https://web-service-to-csharp-hansmerz.c9users.io/products.php?url=loaddata&val=" + defi + "";
+            var json = new WebClient().DownloadString(url);
+            DataTable tb = JsonConvert.DeserializeObject<DataTable>(json);
+            DataRow info = tb.Rows[0];
+            //DataRow info = Conexion.Data(sql).Rows[0];                
                 txtPro.Text = info["Nombre"].ToString();
                 txtMar.Text = info["Marca"].ToString();
                 txtDes.Text = info["Descripcion"].ToString();

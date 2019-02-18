@@ -14,10 +14,10 @@ namespace Proyecto
         {
             MySqlConnectionStringBuilder builder = new MySqlConnectionStringBuilder();
             MySqlConnection connect;
-            builder.Server = "localhost";
-            builder.UserID = "root";
-            builder.Password = "";
-            builder.Database = "dbPuntoVenta";
+            builder.Server = "lhcp2038.webapps.net";
+            builder.UserID = "sq3703yh_root";
+            builder.Password = "R00t@2019";
+            builder.Database = "sq3703yh_dbpuntoventa";
 
             connect = new MySqlConnection(builder.ToString());
             connect.Open();
